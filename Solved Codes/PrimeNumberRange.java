@@ -1,6 +1,6 @@
 // program to find the prime numbers between range 
-
-
+class HelloWorld {
+    public static void main(String[] args) {
     int i=0,j;
     int count=0;
     while(i < input2){
@@ -17,3 +17,5 @@
     }
 
 return count;
+}
+}

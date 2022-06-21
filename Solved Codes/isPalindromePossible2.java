@@ -1,9 +1,8 @@
 import java.io.*;
 import  java.util.*;
 
-class ------- >
-
-method -------> {	 
+class HelloWorld {
+    public static void main(String[] args) {
         int check=input1;
         boolean sts=true;
         int[] arr = new int[100];

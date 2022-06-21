@@ -1,3 +1,5 @@
+class HelloWorld {
+    public static void main(String[] args) {
 	boolean val=false;
 		if(input1<0){
 			val = true;
@@ -25,7 +27,8 @@
 			return sum;
 		}
 
-
+}
+}
 
 
 

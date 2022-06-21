@@ -1,3 +1,5 @@
+class HelloWorld {
+    public static void main(String[] args) {
     int sum=0,lastdgt;
 	int length=0;
 	int count=1;
@@ -19,3 +21,5 @@
 			length++;
 		}
 	}
+}
+}

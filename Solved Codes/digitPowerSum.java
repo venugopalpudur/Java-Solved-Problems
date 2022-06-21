@@ -1,3 +1,5 @@
+class HelloWorld {
+    public static void main(String[] args) {
 		int digit=0;
 		int num=0, sum=0;
 		while(input1>0){
@@ -7,3 +9,4 @@
 			input1=input1/10;
 		}
 		return sum;
+}

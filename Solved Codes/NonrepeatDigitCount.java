@@ -1,4 +1,5 @@
-
+class HelloWorld {
+    public static void main(String[] args) {
 			int count=0;
 		int digit,last;
 		int cnt[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};

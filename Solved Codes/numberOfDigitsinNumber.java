@@ -1,4 +1,5 @@
-
+class HelloWorld {
+    public static void main(String[] args) {
 		int num=10;
 		int count=1;
 		for(int i=10; i<input1; i=i*10){
@@ -10,3 +11,5 @@
 		count++;
 	}
 	return count;
+}
+}

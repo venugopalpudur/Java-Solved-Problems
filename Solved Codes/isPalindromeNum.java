@@ -1,8 +1,8 @@
 import java.io.*;
 import  java.util.*;
 
-class----------{
-method-------{
+class HelloWorld {
+    public static void main(String[] args) {
 	int check=input1;
 		int lstdigit=0;
 		int num=0;
